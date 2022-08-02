@@ -18,3 +18,8 @@ Keep track of income and expenses
 
 # Screenshots 
 
+![Screenshot_2022-08-02-10-50-39-97](https://user-images.githubusercontent.com/92304590/182298025-0ab3b534-64d8-4af3-844f-6cba06db460d.png)
+
+# License 
+
+
